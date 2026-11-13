@@ -1,0 +1,8 @@
+{
+  "name": "Shubhangi & Shobhit — Wedding Invitation",
+  "description": "Royal Indian wedding invitation card and celebration portal for Shubhangi and Shobhit in Agra, featuring interactive scratch card, music, animated mandap, function itinerary, stay details, and RSVP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
